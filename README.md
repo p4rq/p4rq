@@ -155,38 +155,6 @@ Role: Full Stack Developer | Database Architect
 **Stack:** `PHP` `Laravel` `PostgreSQL` `Vue.js` `Redis`
 
 ---
-
-### 📁 [File Management CRUD System](https://github.com/p4rq/file-crud)
-**Secure file storage and management system**
-
-```
-Role: Backend Developer
-```
-
-- 📦 **Features:** Upload, versioning, access control, metadata management
-- 🛡 **Security:** File validation, virus scanning, secure storage
-- 🚀 **Performance:** Chunked uploads, async processing
-
-**Technical Highlights:**
-- Implemented secure file upload with validation
-- Built file versioning system with diff tracking
-- Optimized large file handling with streaming
-- Created granular permission system
-
-**Stack:** `PHP` `Laravel` `S3-compatible Storage` `Queue Workers`
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=p4rq&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide=stars)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=p4rq&layout=compact&theme=github_dark&hide_border=true&langs_count=6&hide=html,css)
-
-</div>
-
 ---
 
 ## 🎓 Key Achievements
