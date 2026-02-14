@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👨‍💻 Arman | Backend Engineer
+# 👨‍💻 Anuarbek | Backend Engineer
 
 ### Enterprise Backend Development | System Architecture | Performance Optimization
 
