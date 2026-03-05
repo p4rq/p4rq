@@ -23,9 +23,10 @@ Open to Werkstudent or internship opportunities in Germany.
 - Go · PHP · Python · Dart · JavaScript
 
 **Frameworks & Libraries**
-- Backend: Laravel, Symfony, FastAPI, net/http (Go)
+- Backend: Laravel, Symfony, FastAPI, Gin (Go)
 - Frontend: Vue.js
 - Mobile: Flutter
+- ML/CV: PyTorch, Ultralytics YOLOv8
 
 **Databases**
 - PostgreSQL · MySQL · Redis
@@ -36,6 +37,15 @@ Open to Werkstudent or internship opportunities in Germany.
 ---
 
 ## 💼 Projects
+
+### 🚗 [Dala Auto](https://github.com/p4rq/dala-auto-backend) — Vehicle Marketplace (Go + Flutter + ML)
+Full-stack vehicle marketplace with Go REST API, Flutter mobile app, and a Python ML service for car damage detection.
+- **Stack:** Go · Gin · GORM · MySQL · Flutter · Python · YOLOv8 · FastAPI · Docker
+- **Architecture:** Layered (Repository → Service → Handler), JWT auth, role-based access (client / worker / admin)
+- **ML service:** YOLOv8 fine-tuned to detect surface damage (scratch, dent, crack, broken glass, paint damage)
+- **Repos:** [Backend](https://github.com/p4rq/dala-auto-backend) · [Mobile](https://github.com/p4rq/dala-auto-mobile) · [ML Service](https://github.com/p4rq/dala-auto-ml)
+
+---
 
 ### 🐧 [PinguinMobile](https://github.com/p4rq/PinguinMobile) — Parental Control App
 Cross-platform mobile application for monitoring children's digital activity with built-in family chat.
